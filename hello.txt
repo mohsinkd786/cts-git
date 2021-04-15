@@ -1,1 +1,2 @@
 Welome to Git!
+Git support 2 Phase Commits!
