@@ -1,2 +1,3 @@
 server:
         port: 8701
+        name: cts-git-demo
